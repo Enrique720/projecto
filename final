@@ -1,0 +1,8 @@
+def suma(a,b):
+    print(a+b)
+def resta(a,b):
+    print(a-b)
+x=int(input("ingrese numero 1: "))
+y=int(input("ingrese segundo número"))
+suma(x,y)
+resta(x,y)
